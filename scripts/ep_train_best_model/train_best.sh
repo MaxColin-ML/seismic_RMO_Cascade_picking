@@ -1,0 +1,3 @@
+
+# CUDA_VISIBLE_DEVICES=0 nohup bash scripts/ep_train_best_model/train_best.sh > scripts/ep_train_best_model/log/train_best_0514.log 2>&1 & # 4052734 4072932
+python models/cascade_method/train_run.py --save_group train_best_250514 --seg_net MSFSegNet --device 0 --first_act tanh --dcn_use 0 --cbam_use 1 --add_peak 0 --add_agc 1 --add_bp 1 --if_print 0 --optimizer SGD --loss_func BCE --lr_init 0.0001 --train_bs 8 --CBAM_red 32 --seed 1 

@@ -1,0 +1,23 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+test_fig
+test_file
+scripts/generate_data/fig
+scripts/tuning_parameters/log
+scripts/know_data/fig
+scripts/know_data/fig_demo
+transfer_test
+kernel_regression
+scripts/ablation/log

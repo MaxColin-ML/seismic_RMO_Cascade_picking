@@ -1,0 +1,493 @@
+nohup: ignoring input
+# ------ training named MSFSegNet-31+51-32-tanh-01011-bs8-lr1.0e-04-BCE-SGD-S1 start ------ #
+#S Seg-MIoU increase (0.000000 --> 0.019860).  Saving model ...
+####### validation epoch=1 step=875 #######
+# train_loss	 0.3395653	 valid_loss	 0.2029038
+# current_lr	 0.000100	 init_lr	 0.000100
+# Seg-ACC	 0.0824 
+# Seg-AP	 0.6996 
+# Seg-FBeta	 0.1713 
+# Seg-MIoU	 0.0199 
+############################################
+
+
+#S Seg-MIoU increase (0.019860 --> 0.066864).  Saving model ...
+####### validation epoch=2 step=1750 #######
+# train_loss	 0.1588237	 valid_loss	 0.1229325
+# current_lr	 0.000098	 init_lr	 0.000100
+# Seg-ACC	 0.7549 
+# Seg-AP	 0.8430 
+# Seg-FBeta	 0.4349 
+# Seg-MIoU	 0.0669 
+#############################################
+
+
+#S Seg-MIoU increase (0.066864 --> 0.125592).  Saving model ...
+####### validation epoch=3 step=2625 #######
+# train_loss	 0.1066210	 valid_loss	 0.0901990
+# current_lr	 0.000091	 init_lr	 0.000100
+# Seg-ACC	 0.8877 
+# Seg-AP	 0.8859 
+# Seg-FBeta	 0.6240 
+# Seg-MIoU	 0.1256 
+#############################################
+
+
+#S Seg-MIoU increase (0.125592 --> 0.180270).  Saving model ...
+####### validation epoch=4 step=3500 #######
+# train_loss	 0.0824797	 valid_loss	 0.0727547
+# current_lr	 0.000081	 init_lr	 0.000100
+# Seg-ACC	 0.9333 
+# Seg-AP	 0.9040 
+# Seg-FBeta	 0.7339 
+# Seg-MIoU	 0.1803 
+#############################################
+
+
+#S Seg-MIoU increase (0.180270 --> 0.221573).  Saving model ...
+####### validation epoch=5 step=4375 #######
+# train_loss	 0.0691517	 valid_loss	 0.0630523
+# current_lr	 0.000069	 init_lr	 0.000100
+# Seg-ACC	 0.9528 
+# Seg-AP	 0.9121 
+# Seg-FBeta	 0.7933 
+# Seg-MIoU	 0.2216 
+#############################################
+
+
+#S Seg-MIoU increase (0.221573 --> 0.249892).  Saving model ...
+####### validation epoch=6 step=5250 #######
+# train_loss	 0.0611975	 valid_loss	 0.0571076
+# current_lr	 0.000055	 init_lr	 0.000100
+# Seg-ACC	 0.9624 
+# Seg-AP	 0.9168 
+# Seg-FBeta	 0.8262 
+# Seg-MIoU	 0.2499 
+#############################################
+
+
+#S Seg-MIoU increase (0.249892 --> 0.266340).  Saving model ...
+####### validation epoch=7 step=6125 #######
+# train_loss	 0.0562681	 valid_loss	 0.0532736
+# current_lr	 0.000041	 init_lr	 0.000100
+# Seg-ACC	 0.9670 
+# Seg-AP	 0.9196 
+# Seg-FBeta	 0.8432 
+# Seg-MIoU	 0.2663 
+#############################################
+
+
+#S Seg-MIoU increase (0.266340 --> 0.276526).  Saving model ...
+####### validation epoch=8 step=7000 #######
+# train_loss	 0.0532064	 valid_loss	 0.0509713
+# current_lr	 0.000029	 init_lr	 0.000100
+# Seg-ACC	 0.9696 
+# Seg-AP	 0.9217 
+# Seg-FBeta	 0.8529 
+# Seg-MIoU	 0.2765 
+#############################################
+
+
+#S Seg-MIoU increase (0.276526 --> 0.281262).  Saving model ...
+####### validation epoch=9 step=7875 #######
+# train_loss	 0.0513291	 valid_loss	 0.0495216
+# current_lr	 0.000019	 init_lr	 0.000100
+# Seg-ACC	 0.9708 
+# Seg-AP	 0.9228 
+# Seg-FBeta	 0.8573 
+# Seg-MIoU	 0.2813 
+#############################################
+
+
+#S Seg-MIoU increase (0.281262 --> 0.285015).  Saving model ...
+####### validation epoch=10 step=8750 #######
+# train_loss	 0.0501760	 valid_loss	 0.0485438
+# current_lr	 0.000012	 init_lr	 0.000100
+# Seg-ACC	 0.9717 
+# Seg-AP	 0.9244 
+# Seg-FBeta	 0.8607 
+# Seg-MIoU	 0.2850 
+##############################################
+
+
+#S Seg-MIoU increase (0.285015 --> 0.285339).  Saving model ...
+####### validation epoch=11 step=9625 #######
+# train_loss	 0.0494008	 valid_loss	 0.0476944
+# current_lr	 0.000010	 init_lr	 0.000100
+# Seg-ACC	 0.9717 
+# Seg-AP	 0.9256 
+# Seg-FBeta	 0.8612 
+# Seg-MIoU	 0.2853 
+##############################################
+
+
+#S Seg-MIoU increase (0.285339 --> 0.292135).  Saving model ...
+####### validation epoch=12 step=10500 #######
+# train_loss	 0.0486386	 valid_loss	 0.0472706
+# current_lr	 0.000012	 init_lr	 0.000100
+# Seg-ACC	 0.9733 
+# Seg-AP	 0.9250 
+# Seg-FBeta	 0.8668 
+# Seg-MIoU	 0.2921 
+###############################################
+
+
+#S Seg-MIoU increase (0.292135 --> 0.297282).  Saving model ...
+####### validation epoch=13 step=11375 #######
+# train_loss	 0.0476311	 valid_loss	 0.0460208
+# current_lr	 0.000019	 init_lr	 0.000100
+# Seg-ACC	 0.9744 
+# Seg-AP	 0.9261 
+# Seg-FBeta	 0.8712 
+# Seg-MIoU	 0.2973 
+###############################################
+
+
+#S Seg-MIoU increase (0.297282 --> 0.301935).  Saving model ...
+####### validation epoch=14 step=12250 #######
+# train_loss	 0.0461738	 valid_loss	 0.0442444
+# current_lr	 0.000029	 init_lr	 0.000100
+# Seg-ACC	 0.9754 
+# Seg-AP	 0.9278 
+# Seg-FBeta	 0.8752 
+# Seg-MIoU	 0.3019 
+###############################################
+
+
+#S Seg-MIoU increase (0.301935 --> 0.308616).  Saving model ...
+####### validation epoch=15 step=13125 #######
+# train_loss	 0.0441779	 valid_loss	 0.0420288
+# current_lr	 0.000041	 init_lr	 0.000100
+# Seg-ACC	 0.9767 
+# Seg-AP	 0.9302 
+# Seg-FBeta	 0.8807 
+# Seg-MIoU	 0.3086 
+###############################################
+
+
+#S Seg-MIoU increase (0.308616 --> 0.320243).  Saving model ...
+####### validation epoch=16 step=14000 #######
+# train_loss	 0.0417510	 valid_loss	 0.0395701
+# current_lr	 0.000055	 init_lr	 0.000100
+# Seg-ACC	 0.9789 
+# Seg-AP	 0.9315 
+# Seg-FBeta	 0.8895 
+# Seg-MIoU	 0.3202 
+###############################################
+
+
+#S Seg-MIoU increase (0.320243 --> 0.327890).  Saving model ...
+####### validation epoch=17 step=14875 #######
+# train_loss	 0.0390327	 valid_loss	 0.0366166
+# current_lr	 0.000069	 init_lr	 0.000100
+# Seg-ACC	 0.9803 
+# Seg-AP	 0.9347 
+# Seg-FBeta	 0.8954 
+# Seg-MIoU	 0.3279 
+###############################################
+
+
+#S Seg-MIoU increase (0.327890 --> 0.335231).  Saving model ...
+####### validation epoch=18 step=15750 #######
+# train_loss	 0.0362121	 valid_loss	 0.0338891
+# current_lr	 0.000081	 init_lr	 0.000100
+# Seg-ACC	 0.9815 
+# Seg-AP	 0.9373 
+# Seg-FBeta	 0.9009 
+# Seg-MIoU	 0.3352 
+###############################################
+
+
+#S Seg-MIoU increase (0.335231 --> 0.344773).  Saving model ...
+####### validation epoch=19 step=16625 #######
+# train_loss	 0.0335321	 valid_loss	 0.0313646
+# current_lr	 0.000091	 init_lr	 0.000100
+# Seg-ACC	 0.9831 
+# Seg-AP	 0.9391 
+# Seg-FBeta	 0.9075 
+# Seg-MIoU	 0.3448 
+###############################################
+
+
+#S Seg-MIoU increase (0.344773 --> 0.353718).  Saving model ...
+####### validation epoch=20 step=17500 #######
+# train_loss	 0.0310596	 valid_loss	 0.0291248
+# current_lr	 0.000098	 init_lr	 0.000100
+# Seg-ACC	 0.9845 
+# Seg-AP	 0.9409 
+# Seg-FBeta	 0.9134 
+# Seg-MIoU	 0.3537 
+###############################################
+
+
+#S Seg-MIoU increase (0.353718 --> 0.359166).  Saving model ...
+####### validation epoch=21 step=18375 #######
+# train_loss	 0.0288970	 valid_loss	 0.0271073
+# current_lr	 0.000100	 init_lr	 0.000100
+# Seg-ACC	 0.9853 
+# Seg-AP	 0.9431 
+# Seg-FBeta	 0.9173 
+# Seg-MIoU	 0.3592 
+###############################################
+
+
+#S Seg-MIoU increase (0.359166 --> 0.365643).  Saving model ...
+####### validation epoch=22 step=19250 #######
+# train_loss	 0.0270648	 valid_loss	 0.0254440
+# current_lr	 0.000098	 init_lr	 0.000100
+# Seg-ACC	 0.9862 
+# Seg-AP	 0.9448 
+# Seg-FBeta	 0.9216 
+# Seg-MIoU	 0.3656 
+###############################################
+
+
+#S Seg-MIoU increase (0.365643 --> 0.371708).  Saving model ...
+####### validation epoch=23 step=20125 #######
+# train_loss	 0.0255523	 valid_loss	 0.0241270
+# current_lr	 0.000091	 init_lr	 0.000100
+# Seg-ACC	 0.9870 
+# Seg-AP	 0.9461 
+# Seg-FBeta	 0.9255 
+# Seg-MIoU	 0.3717 
+###############################################
+
+
+#S Seg-MIoU increase (0.371708 --> 0.375606).  Saving model ...
+####### validation epoch=24 step=21000 #######
+# train_loss	 0.0243512	 valid_loss	 0.0230395
+# current_lr	 0.000081	 init_lr	 0.000100
+# Seg-ACC	 0.9875 
+# Seg-AP	 0.9475 
+# Seg-FBeta	 0.9281 
+# Seg-MIoU	 0.3756 
+###############################################
+
+
+#S Seg-MIoU increase (0.375606 --> 0.379643).  Saving model ...
+####### validation epoch=25 step=21875 #######
+# train_loss	 0.0233942	 valid_loss	 0.0222229
+# current_lr	 0.000069	 init_lr	 0.000100
+# Seg-ACC	 0.9881 
+# Seg-AP	 0.9484 
+# Seg-FBeta	 0.9307 
+# Seg-MIoU	 0.3796 
+###############################################
+
+
+#S Seg-MIoU increase (0.379643 --> 0.380746).  Saving model ...
+####### validation epoch=26 step=22750 #######
+# train_loss	 0.0226884	 valid_loss	 0.0216113
+# current_lr	 0.000055	 init_lr	 0.000100
+# Seg-ACC	 0.9882 
+# Seg-AP	 0.9494 
+# Seg-FBeta	 0.9317 
+# Seg-MIoU	 0.3807 
+###############################################
+
+
+#S Seg-MIoU increase (0.380746 --> 0.381633).  Saving model ...
+####### validation epoch=27 step=23625 #######
+# train_loss	 0.0221641	 valid_loss	 0.0211323
+# current_lr	 0.000041	 init_lr	 0.000100
+# Seg-ACC	 0.9883 
+# Seg-AP	 0.9502 
+# Seg-FBeta	 0.9324 
+# Seg-MIoU	 0.3816 
+###############################################
+
+
+#S Seg-MIoU increase (0.381633 --> 0.385554).  Saving model ...
+####### validation epoch=28 step=24500 #######
+# train_loss	 0.0218208	 valid_loss	 0.0208967
+# current_lr	 0.000029	 init_lr	 0.000100
+# Seg-ACC	 0.9888 
+# Seg-AP	 0.9500 
+# Seg-FBeta	 0.9344 
+# Seg-MIoU	 0.3856 
+###############################################
+
+
+#S EarlyStopping counter: 1 out of 5
+####### validation epoch=29 step=25375 #######
+# train_loss	 0.0215839	 valid_loss	 0.0206792
+# current_lr	 0.000019	 init_lr	 0.000100
+# Seg-ACC	 0.9886 
+# Seg-AP	 0.9508 
+# Seg-FBeta	 0.9339 
+# Seg-MIoU	 0.3840 
+###############################################
+
+
+#S Seg-MIoU increase (0.385554 --> 0.387697).  Saving model ...
+####### validation epoch=30 step=26250 #######
+# train_loss	 0.0214196	 valid_loss	 0.0206513
+# current_lr	 0.000012	 init_lr	 0.000100
+# Seg-ACC	 0.9891 
+# Seg-AP	 0.9504 
+# Seg-FBeta	 0.9357 
+# Seg-MIoU	 0.3877 
+###############################################
+
+
+#S EarlyStopping counter: 1 out of 5
+####### validation epoch=31 step=27125 #######
+# train_loss	 0.0213272	 valid_loss	 0.0205598
+# current_lr	 0.000010	 init_lr	 0.000100
+# Seg-ACC	 0.9890 
+# Seg-AP	 0.9507 
+# Seg-FBeta	 0.9355 
+# Seg-MIoU	 0.3871 
+###############################################
+
+
+#S EarlyStopping counter: 2 out of 5
+####### validation epoch=32 step=28000 #######
+# train_loss	 0.0212284	 valid_loss	 0.0203553
+# current_lr	 0.000012	 init_lr	 0.000100
+# Seg-ACC	 0.9889 
+# Seg-AP	 0.9511 
+# Seg-FBeta	 0.9353 
+# Seg-MIoU	 0.3865 
+###############################################
+
+
+#S EarlyStopping counter: 3 out of 5
+####### validation epoch=33 step=28875 #######
+# train_loss	 0.0210801	 valid_loss	 0.0201788
+# current_lr	 0.000019	 init_lr	 0.000100
+# Seg-ACC	 0.9888 
+# Seg-AP	 0.9516 
+# Seg-FBeta	 0.9350 
+# Seg-MIoU	 0.3855 
+###############################################
+
+
+#S Seg-MIoU increase (0.387697 --> 0.389437).  Saving model ...
+####### validation epoch=34 step=29750 #######
+# train_loss	 0.0208580	 valid_loss	 0.0199756
+# current_lr	 0.000029	 init_lr	 0.000100
+# Seg-ACC	 0.9893 
+# Seg-AP	 0.9515 
+# Seg-FBeta	 0.9370 
+# Seg-MIoU	 0.3894 
+###############################################
+
+
+#S EarlyStopping counter: 1 out of 5
+####### validation epoch=35 step=30625 #######
+# train_loss	 0.0205521	 valid_loss	 0.0196101
+# current_lr	 0.000041	 init_lr	 0.000100
+# Seg-ACC	 0.9893 
+# Seg-AP	 0.9523 
+# Seg-FBeta	 0.9373 
+# Seg-MIoU	 0.3891 
+###############################################
+
+
+#S Seg-MIoU increase (0.389437 --> 0.392205).  Saving model ...
+####### validation epoch=36 step=31500 #######
+# train_loss	 0.0201275	 valid_loss	 0.0191331
+# current_lr	 0.000055	 init_lr	 0.000100
+# Seg-ACC	 0.9896 
+# Seg-AP	 0.9529 
+# Seg-FBeta	 0.9390 
+# Seg-MIoU	 0.3922 
+###############################################
+
+
+#S Seg-MIoU increase (0.392205 --> 0.394646).  Saving model ...
+####### validation epoch=37 step=32375 #######
+# train_loss	 0.0196439	 valid_loss	 0.0186003
+# current_lr	 0.000069	 init_lr	 0.000100
+# Seg-ACC	 0.9899 
+# Seg-AP	 0.9538 
+# Seg-FBeta	 0.9406 
+# Seg-MIoU	 0.3946 
+###############################################
+
+
+#S Seg-MIoU increase (0.394646 --> 0.396739).  Saving model ...
+####### validation epoch=38 step=33250 #######
+# train_loss	 0.0190857	 valid_loss	 0.0179886
+# current_lr	 0.000081	 init_lr	 0.000100
+# Seg-ACC	 0.9902 
+# Seg-AP	 0.9549 
+# Seg-FBeta	 0.9421 
+# Seg-MIoU	 0.3967 
+###############################################
+
+
+#S Seg-MIoU increase (0.396739 --> 0.402139).  Saving model ...
+####### validation epoch=39 step=34125 #######
+# train_loss	 0.0184751	 valid_loss	 0.0174197
+# current_lr	 0.000091	 init_lr	 0.000100
+# Seg-ACC	 0.9908 
+# Seg-AP	 0.9557 
+# Seg-FBeta	 0.9451 
+# Seg-MIoU	 0.4021 
+###############################################
+
+
+#S Seg-MIoU increase (0.402139 --> 0.403971).  Saving model ...
+####### validation epoch=40 step=35000 #######
+# train_loss	 0.0178478	 valid_loss	 0.0167517
+# current_lr	 0.000098	 init_lr	 0.000100
+# Seg-ACC	 0.9910 
+# Seg-AP	 0.9570 
+# Seg-FBeta	 0.9465 
+# Seg-MIoU	 0.4040 
+###############################################
+
+
+
+
+# ------ ending training ------ #
+
+
+####### validation epoch=40 step=35000 #######
+# train_loss	 0.0178478	 valid_loss	 0.0167517
+# current_lr	 0.000098	 init_lr	 0.000100
+# Seg-ACC	 0.9910 
+# Seg-AP	 0.9570 
+# Seg-FBeta	 0.9465 
+# Seg-MIoU	 0.4040 
+###############################################
+
+
+# > Task: test-syn_us_test-AGC=31+51-rg=3+5.0+50.0+50-cluK=2.0-8
+
+
+# ------ start test ------ #
+# ------ ending test ------ #
+
+
+# > Task: test-bp-AGC=9+15-rg=3+5.0+50.0+50-cluK=2.0-8
+
+
+# ------ start test ------ #
+# ------ ending test ------ #
+
+
+# > Task: test-yz-AGC=15+31-rg=3+5.0+50.0+50-cluK=2.0-8
+
+
+# ------ start test ------ #
+# ------ ending test ------ #
+
+
+# > Task: test-sh-AGC=15+31-rg=3+5.0+50.0+50-cluK=2.0-8
+
+
+# ------ start test ------ #
+# ------ ending test ------ #
+
+
+# > Task: test-jsh-AGC=15+31-rg=3+5.0+50.0+50-cluK=2.0-8
+
+
+# ------ start test ------ #
+# ------ ending test ------ #
+
+
+scripts/ep_train_best_model/train_best.sh: line 4: -seed: command not found

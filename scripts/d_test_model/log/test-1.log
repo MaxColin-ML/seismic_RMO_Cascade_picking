@@ -1,0 +1,114 @@
+nohup: ignoring input
+# ------ training named MSFSegNet-31+51-16-tanh-11111-bs16-lr1.0e-03-BCE-Adam-S1 start ------ #
+#S Seg-MIoU increase (0.000000 --> 0.493749).  Saving model ...
+####### validation epoch=1 step=250 #######
+# train_loss	 0.1718938	 valid_loss	 0.0472711
+# current_lr	 0.001000	 init_lr	 0.001000
+# Seg-ACC	 0.9995 
+# Seg-AP	 0.9953 
+# Seg-Dice	 0.9937 
+# Seg-FBeta	 0.9925 
+# Seg-MIoU	 0.4937 
+############################################
+
+
+#S Seg-MIoU increase (0.493749 --> 0.497324).  Saving model ...
+####### validation epoch=2 step=500 #######
+# train_loss	 0.0253666	 valid_loss	 0.0129312
+# current_lr	 0.001000	 init_lr	 0.001000
+# Seg-ACC	 0.9998 
+# Seg-AP	 0.9985 
+# Seg-Dice	 0.9973 
+# Seg-FBeta	 0.9969 
+# Seg-MIoU	 0.4973 
+############################################
+
+
+#S Seg-MIoU increase (0.497324 --> 0.497365).  Saving model ...
+####### validation epoch=3 step=750 #######
+# train_loss	 0.0092110	 valid_loss	 0.0058856
+# current_lr	 0.001000	 init_lr	 0.001000
+# Seg-ACC	 0.9998 
+# Seg-AP	 0.9979 
+# Seg-Dice	 0.9974 
+# Seg-FBeta	 0.9969 
+# Seg-MIoU	 0.4974 
+############################################
+
+
+#S Seg-MIoU increase (0.497365 --> 0.498773).  Saving model ...
+####### validation epoch=4 step=1000 #######
+# train_loss	 0.0046989	 valid_loss	 0.0033340
+# current_lr	 0.001000	 init_lr	 0.001000
+# Seg-ACC	 0.9999 
+# Seg-AP	 0.9991 
+# Seg-Dice	 0.9988 
+# Seg-FBeta	 0.9987 
+# Seg-MIoU	 0.4988 
+#############################################
+
+
+#S EarlyStopping counter: 1 out of 4
+####### validation epoch=5 step=1250 #######
+# train_loss	 0.0061069	 valid_loss	 0.0033841
+# current_lr	 0.000999	 init_lr	 0.001000
+# Seg-ACC	 0.9996 
+# Seg-AP	 0.9945 
+# Seg-Dice	 0.9939 
+# Seg-FBeta	 0.9923 
+# Seg-MIoU	 0.4939 
+#############################################
+
+
+#S EarlyStopping counter: 2 out of 4
+####### validation epoch=6 step=1500 #######
+# train_loss	 0.0030589	 valid_loss	 0.0018872
+# current_lr	 0.000999	 init_lr	 0.001000
+# Seg-ACC	 0.9998 
+# Seg-AP	 0.9981 
+# Seg-Dice	 0.9971 
+# Seg-FBeta	 0.9966 
+# Seg-MIoU	 0.4971 
+#############################################
+
+
+#S EarlyStopping counter: 3 out of 4
+####### validation epoch=7 step=1750 #######
+# train_loss	 0.0019621	 valid_loss	 0.0012858
+# current_lr	 0.000998	 init_lr	 0.001000
+# Seg-ACC	 0.9999 
+# Seg-AP	 0.9984 
+# Seg-Dice	 0.9980 
+# Seg-FBeta	 0.9978 
+# Seg-MIoU	 0.4980 
+#############################################
+
+
+#S EarlyStopping counter: 4 out of 4
+####### validation epoch=8 step=2000 #######
+# train_loss	 0.0014344	 valid_loss	 0.0010164
+# current_lr	 0.000997	 init_lr	 0.001000
+# Seg-ACC	 0.9999 
+# Seg-AP	 0.9983 
+# Seg-Dice	 0.9982 
+# Seg-FBeta	 0.9980 
+# Seg-MIoU	 0.4982 
+#############################################
+
+
+
+
+# ------ ending training ------ #
+
+
+####### validation epoch=4 step=1000 #######
+# train_loss	 0.0046989	 valid_loss	 0.0033340
+# current_lr	 0.001000	 init_lr	 0.001000
+# Seg-ACC	 0.9999 
+# Seg-AP	 0.9991 
+# Seg-Dice	 0.9988 
+# Seg-FBeta	 0.9987 
+# Seg-MIoU	 0.4988 
+#############################################
+
+
