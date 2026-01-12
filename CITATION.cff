@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "seismic_RMO_Cascade_picking"
+authors:
+  - family-names: "Wang"
+    given-names: "H."
+year: 2025
+version: "0.1.0"
+doi: "10.1109/TGRS.2025.3612370"
+url: "https://doi.org/10.1109/TGRS.2025.3612370"
+preferred-citation: |
+  H. Wang et al., "A Label-Free High-Precision Residual Moveout Picking Method for Depth-Domain Tomography Based on Deep Learning," IEEE Trans. Geosci. Remote Sens., vol. 63, pp. 1–15, 2025. doi:10.1109/TGRS.2025.3612370
